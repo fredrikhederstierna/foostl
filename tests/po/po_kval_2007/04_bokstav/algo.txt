@@ -1,0 +1,11 @@
+
+
+1. börja pos 0
+
+2. från pos 1-  är bokstav mindre och inom steg kvar avstånd?
+om ja och avstånd ok uppdatera highscore
+
+3. om hittat, swap, minska steg kvar
+
+4. gå till pos 1, kör om
+

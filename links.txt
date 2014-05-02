@@ -1,0 +1,22 @@
+
+
+* Links competition challenges and libs
+
+http://www.cs.berkeley.edu/~matei/programming_contests/
+http://www.acmsolver.org/
+https://webdocs.cs.ualberta.ca/~contest/
+http://cplus.about.com/od/glossary/a/ten-contests.htm
+https://sites.google.com/site/stevenhalim/home/material
+http://www.topcoder.com/
+https://code.google.com/codejam/
+
+
+* Links Swedish competition challenges
+
+http://www.csc.kth.se/contest/ioi/uppgifter.php
+http://www.progolymp.se/traning/uppgifter
+
+
+* Books
+
+Steven & Felix Halim, "Competitive Programming 3".
