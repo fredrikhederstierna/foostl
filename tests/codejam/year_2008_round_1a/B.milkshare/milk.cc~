@@ -1,0 +1,33 @@
+#include <limits.h>
+
+#include <vector>
+#include <stack>
+#include <algorithm>
+#include <iostream>
+#include <sstream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+  int T;
+  cin >> T;
+  string s;
+  getline(cin, s);
+
+  //T = 1; // test
+  
+  //cout << "T=" << T << endl;
+
+  int t;
+  for (t = 0; t < T; t++) {
+
+    int n;
+    cin >> n;
+
+    //cout << "n=" << n << endl;
+
+    vector<int> v1;
+  }
+}
